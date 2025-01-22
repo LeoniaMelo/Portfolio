@@ -260,7 +260,7 @@ section {
 }
 
 .projetos__imagem_topo {
-    max-width: 40%; /* Ajuste a largura da imagem conforme necessário */
+    max-width: 100%; /* Ajuste a largura da imagem conforme necessário */
     height: auto; /* Manter a proporção da imagem */
     margin-right: 20px; /* Espaçamento entre a imagem e o conteúdo */
 }
